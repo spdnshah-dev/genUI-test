@@ -1,0 +1,1626 @@
+{
+ "name": "Advanced Data Science and GenAI Master Certification Program",
+ "brand": "Learnbay",
+ "tagline": "Integrated with AI Co-Lab Experience & BYOP",
+ "subtitle": "Build what your business needs (BYOP) and get directly certified from startups.",
+ "description": "Successfully transition careers through live training and real-time capstone projects while making your previous work experience count.",
+ "url": "https://www.learnbay.co/datascience/data-science-and-ai-master-certification-program",
+ "eligibility": {
+  "summary": "Tech professional with 1+ years of experience",
+  "note": "This program is not for fresh graduates. You must have at least 1 year of work experience in tech and should know programming. To know more check eligibility",
+  "description": "This program is perfect for Software Developer, Front-end Developer, Product Manager, Web Developer, Software Tester, System Architect, Cloud & DevOps Engineer.",
+  "roles": [
+   "Software Engg.",
+   "Front-end Dev.",
+   "Cloud & DevOps Engineer",
+   "System Architect",
+   "IT Engg.",
+   "DevOps Engg.",
+   "Web Developer"
+  ],
+  "experienceBands": [
+   "Freshers",
+   "1-3 years",
+   "3-5 years",
+   "5-7 years",
+   "7+ years"
+  ]
+ },
+ "quickFacts": {
+  "eligibility": "Min 1 year experience",
+  "duration": "13-15 months (approx. 500 hours)",
+  "format": "Live Online / Hybrid",
+  "liveHours": "370+ hours of live instructor-led classes",
+  "flexiPass": "3-year flexi subscription",
+  "support": "1-on-1 doubt clearing with mentors",
+  "batches": "Weekday batch: Mon-Fri, 2 hrs/day (13 months). Weekend batch: Sat-Sun, 3.5 hrs/day (15 months)"
+ },
+ "stats": [
+  {
+   "label": "Alumni companies",
+   "value": "350+"
+  },
+  {
+   "label": "Live class hours",
+   "value": "370+"
+  },
+  {
+   "label": "Flexi subscription",
+   "value": "3 yrs"
+  },
+  {
+   "label": "Tools & modules",
+   "value": "22+"
+  },
+  {
+   "label": "Real-time projects",
+   "value": "12"
+  },
+  {
+   "label": "Capstone projects",
+   "value": "3"
+  },
+  {
+   "label": "Industry relevance",
+   "value": "95%"
+  },
+  {
+   "label": "People consulted",
+   "value": "7,568"
+  }
+ ],
+ "pillars": [
+  {
+   "title": "Alumni working in 350+ companies",
+   "text": "Set your preferences and unlock access to top tech and product-based companies hiring across domains."
+  },
+  {
+   "title": "Domain tracks",
+   "text": "Specialize in BFSI, Healthcare, Retail, HR, Manufacturing, Technology or Consulting and build expertise that matches your career goals."
+  },
+  {
+   "title": "GenAI + Agentic AI",
+   "text": "Build with LangChain, RAG and AutoGPT. Work hands-on with the GenAI frameworks used in real enterprise applications."
+  },
+  {
+   "title": "AI Co-Lab",
+   "text": "Solve actual startup problems in GenAI and Agentic AI, impacting real products and users, endorsed by startup collaborators."
+  }
+ ],
+ "domains": [
+  "BFSI",
+  "Healthcare",
+  "Retail",
+  "HR",
+  "Manufacturing",
+  "Technology",
+  "Consulting",
+  "Supply Chain",
+  "Project Management"
+ ],
+ "trainingModes": [
+  {
+   "name": "100% Live online classes",
+   "text": "Live interactive sessions, 1:1 online doubt sessions, online capstone projects and virtual mock interviews."
+  },
+  {
+   "name": "Hybrid",
+   "text": "Online theory classes plus classroom sessions for capstone projects and interview preparation."
+  }
+ ],
+ "placement": [
+  {
+   "title": "Placement Support",
+   "text": "Access to job opportunities with personalized support to enhance interview readiness and optimize your profile."
+  },
+  {
+   "title": "Mock Interviews",
+   "text": "Tailored mock sessions that simulate real-world interview scenarios."
+  },
+  {
+   "title": "Resume Build-up",
+   "text": "Expert guidance so your profile stands out in a competitive market."
+  },
+  {
+   "title": "Interview Calls",
+   "text": "At least 10 interview calls with continuous support and feedback; referrals for 1 year after completion."
+  }
+ ],
+ "projects": [
+  {
+   "title": "Social Media Feed System",
+   "company": "Twitter",
+   "image": "/assets/adlearnbay/Twitter.webp",
+   "text": "Real-time notification feed management with lightning-fast updates during high-volume data per second.",
+   "outcome": "Data sharding and caching techniques."
+  },
+  {
+   "title": "Hotel Room Booking System",
+   "company": "OYO",
+   "image": "/assets/adlearnbay/Oyo.webp",
+   "text": "Reservation and room management focused booking system for business.",
+   "outcome": "Database schema for bookings and customer accounts."
+  },
+  {
+   "title": "Food Ordering System",
+   "company": "Swiggy",
+   "image": "/assets/adlearnbay/ProjectSwiggy.webp",
+   "text": "Platform connecting users to local restaurants for ordering and delivery.",
+   "outcome": "Microservices architecture for listings and orders."
+  },
+  {
+   "title": "Content Streaming Service",
+   "company": "Netflix",
+   "image": "/assets/web/V4/course_iit_guwahati/project/netflix_logo.webp",
+   "text": "Microservices-based architecture for a streaming service, focusing on service decomposition.",
+   "outcome": "CAP principles to manage data consistency."
+  },
+  {
+   "title": "End-to-end Shopping Cart",
+   "company": "Flipkart",
+   "image": "/assets/adlearnbay/Flipkart.webp",
+   "text": "Rich shopping cart built from scratch with add, replace and delete flows.",
+   "outcome": "Normalized schema and sequence diagrams."
+  },
+  {
+   "title": "Property Booking System",
+   "company": "MakeMyTrip",
+   "image": "/assets/adlearnbay/makemytrip.webp",
+   "text": "Booking management for hotels supporting reservations and room management.",
+   "outcome": "Normalized database schema for hotels and rooms."
+  }
+ ],
+ "tools": [
+  "Python",
+  "GitHub",
+  "OpenAI",
+  "LangChain",
+  "RAG",
+  "AutoGPT",
+  "IBM Watsonx",
+  "Hugging Face",
+  "Scikit-learn",
+  "TensorFlow",
+  "PyTorch",
+  "FastAPI",
+  "Docker",
+  "MLflow",
+  "SQL",
+  "Excel",
+  "Tableau",
+  "Power BI",
+  "Hadoop",
+  "Spark",
+  "Azure",
+  "AWS"
+ ],
+ "toolImages": [
+  "/assets/adlearnbay/python+git_11zon.webp",
+  "/assets/adlearnbay/azureawsjenkins.webp",
+  "/assets/adlearnbay/dockerkubernatics.webp",
+  "/assets/adlearnbay/promethusgrafna.png",
+  "/assets/adlearnbay/git_linux.webp"
+ ],
+ "companies": [
+  {
+   "name": "Amazon",
+   "logo": "/assets/web/s3_main/new-UI/amaz-a.webp"
+  },
+  {
+   "name": "Meta",
+   "logo": "/assets/web/s3_main/new-UI/meta-1.webp"
+  },
+  {
+   "name": "Microsoft",
+   "logo": "/assets/web/s3_main/new-UI/micro_ss1.webp"
+  },
+  {
+   "name": "EY",
+   "logo": "/assets/web/s3_main/new-UI/ey-1.webp"
+  },
+  {
+   "name": "Fractal",
+   "logo": "/assets/web/s3_main/new-UI/frac-1.webp"
+  },
+  {
+   "name": "Genpact",
+   "logo": "/assets/web/s3_main/new-UI/genp-1.webp"
+  },
+  {
+   "name": "Razorpay",
+   "logo": "/assets/web/s3_main/new-UI/razorpa.webp"
+  },
+  {
+   "name": "Wells Fargo",
+   "logo": "/assets/web/s3_main/new-UI/well-1.webp"
+  },
+  {
+   "name": "Brillio",
+   "logo": "/assets/web/s3_main/new-UI/brillo-1.webp"
+  },
+  {
+   "name": "Mu Sigma",
+   "logo": "/assets/web/s3_main/new-UI/mu-2.webp"
+  },
+  {
+   "name": "Ola",
+   "logo": "/assets/web/s3_main/new-UI/ola-2.webp"
+  },
+  {
+   "name": "Bridgei2i",
+   "logo": "/assets/web/s3_main/new-UI/brid-2.webp"
+  }
+ ],
+ "certifiers": [
+  {
+   "name": "IBM",
+   "logo": "/assets/web/s3_main/Course-home/IBM_c+(1).webp"
+  },
+  {
+   "name": "Microsoft",
+   "logo": "/assets/adlearnbay/Microsoft.webp"
+  }
+ ],
+ "mentors": [
+  {
+   "name": "Disha Jindgar",
+   "photo": "/assets/web/s3_main/learnbayMain/mentor-desktop.webp",
+   "tag": "Industry mentor"
+  },
+  {
+   "name": "Tammanna V.",
+   "photo": "/assets/web/s3_main/mentor-sec-min.webp",
+   "tag": "Industry mentor"
+  },
+  {
+   "name": "Mohit S.",
+   "photo": "/assets/web/s3_main/secmentor1.webp",
+   "tag": "Industry mentor"
+  },
+  {
+   "name": "Pulkit Jain",
+   "photo": "/assets/web/s3_main/learnbayMain/puulkit.webp",
+   "tag": "Industry mentor"
+  },
+  {
+   "name": "Tripti Jain",
+   "photo": "/assets/web/s3_main/learnbayMain/tripti.webp",
+   "tag": "Industry mentor"
+  },
+  {
+   "name": "Ankur K.",
+   "photo": "/assets/web/s3_main/learnbayMain/AnkurK.webp",
+   "tag": "Industry mentor"
+  }
+ ],
+ "testimonials": [
+  {
+   "name": "Alumni, BFSI track",
+   "text": "Live mentor-led classes plus the AI Co-Lab projects made the switch into a GenAI role realistic while working full time."
+  },
+  {
+   "name": "Alumni, Healthcare track",
+   "text": "The 3-year flexi pass meant I could repeat terms I found hard. The capstone certificate from a startup opened interview doors."
+  },
+  {
+   "name": "Alumni, Retail track",
+   "text": "Domain electives helped me talk to hiring managers in their language, not just about models."
+  }
+ ],
+ "pricing": {
+  "fee": 159000,
+  "currency": "INR",
+  "feeDisplay": "₹ 1,59,000",
+  "gstPercent": 18,
+  "emi": "No-cost EMI available via credit card, up to 18 months",
+  "loan": "Interest-free loan with Aadhaar, PAN and 3-month salary slips",
+  "scholarship": "Occasional 15-20% early-bird scholarships",
+  "groupDiscount": "5% extra for a group of 2, 8% extra for a group of 3",
+  "benefits": [
+   "Live online interactive sessions",
+   "1:1 online doubt session with experts",
+   "Online capstone projects",
+   "Virtual mock interviews"
+  ]
+ },
+ "admission": [
+  {
+   "step": "Evaluation Call",
+   "text": "Check your eligibility with an academic counsellor."
+  },
+  {
+   "step": "Screening Call",
+   "text": "Pick the right track and electives through expert counselling."
+  },
+  {
+   "step": "Block your seat",
+   "text": "Complete enrollment and join the next batch."
+  }
+ ],
+ "comparison": [
+  {
+   "feature": "Access to live classes",
+   "learnbay": "3-year flexi pass",
+   "others": "Usually limited (6-12 months)"
+  },
+  {
+   "feature": "Class type",
+   "learnbay": "Live, mentor-led, interactive",
+   "others": "Mostly recorded sessions"
+  },
+  {
+   "feature": "Domain specializations",
+   "learnbay": "BFSI, Healthcare, Supply Chain, Manufacturing, HR, Project Management",
+   "others": "No domain specialization, generalized courses"
+  },
+  {
+   "feature": "Project certificates",
+   "learnbay": "Issued by Learnbay and leading MNCs and unicorn startups",
+   "others": "No project certificate"
+  },
+  {
+   "feature": "Learning mode",
+   "learnbay": "Hybrid (online + classroom project sessions)",
+   "others": "Primarily online with large batches"
+  },
+  {
+   "feature": "Project mentorship",
+   "learnbay": "Dedicated project mentor",
+   "others": "General doubt sessions or none"
+  }
+ ],
+ "certifications": [
+  {
+   "id": "ibm",
+   "issuer": "IBM",
+   "title": "Course Completion Certificate from IBM",
+   "points": [
+    "Complete your training with the internationally recognized certificate.",
+    "Validate your Data Science & AI skills with IBM Course Completion Certificate.",
+    "Get acknowledged in IT sector by adding IBM Certificate to your profile."
+   ],
+   "image": "/assets/adlearnbay/dsai.webp"
+  },
+  {
+   "id": "microsoft",
+   "issuer": "Microsoft",
+   "title": "Certification in Collaboration with Microsoft",
+   "points": [
+    "Earn an Industry-certified Microsoft certificate , validating your skills",
+    "Showcase your expertise & enhance your resume highlighting job ready skills",
+    "Boost job opportunities and earnings with Microsoft’s certification"
+   ],
+   "image": "/assets/web/s3_main/learnbayMain/Azure%2BAI%2BFundamentals.png"
+  },
+  {
+   "id": "project-certificate",
+   "issuer": "Project Certificate",
+   "title": "Capstone Project Certificate from Renowened Industry",
+   "points": [
+    "Globally recognized Renowened Industry certification based on industrial-level projects.",
+    "Earn an industry recognized Capstone project certification from Renowened Industry.",
+    "Individualized project experience with easy access to premium job opportunities."
+   ],
+   "image": "/assets/web/s3_main/learnbayMain/new-project-cer-s.webp"
+  },
+  {
+   "id": "gen-ai-certificate",
+   "issuer": "Gen-AI Certificate",
+   "title": "Certification from IBM in Generative AI",
+   "points": [
+    "Globally recognized certification directly from IBM.",
+    "Expertise in IBM Watsonx and GenAI frameworks.",
+    "Enhance your AI profile for leading tech employers worldwide."
+   ],
+   "image": "/assets/web/s3_main/genai.webp"
+  }
+ ],
+ "curriculum": [
+  {
+   "id": "t0",
+   "term": "Induction & Orientation",
+   "title": "Induction & Orientation",
+   "duration": "3 Days",
+   "focus": "GenAI and Agentic AI Master Certification",
+   "chapters": [
+    {
+     "title": "Induction + Orientation",
+     "topics": [
+      "Overview Of AI, Generative AI, And Agentic AI",
+      "Career Paths And Role Mapping For AI Professionals",
+      "LinkedIn Profile Optimization For AI & Tech Hiring",
+      "Using Python Colab For Hands-On Learning",
+      "Learning Workflow, Tools, And Program Onboarding"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t1",
+   "term": "Term 1",
+   "title": "Python for GenAI",
+   "duration": "2 Months",
+   "focus": "Python for GenAI",
+   "chapters": [
+    {
+     "title": "Core Python",
+     "topics": [
+      "Variables",
+      "Store values in various data types",
+      "Dynamic assign / reassign variables",
+      "Python naming conventions for maintainable code",
+      "Numeric types: int, float, complex.",
+      "Text handling using str and string methods.",
+      "Collections: list, tuple, set, dict.",
+      "Mutable vs immutable data behavior."
+     ]
+    },
+    {
+     "title": "Loops",
+     "topics": [
+      "Iteration using for and while loops.",
+      "Sequence traversal with range(), enumerate(), zip().",
+      "Optimizing iterations for data processing tasks."
+     ]
+    },
+    {
+     "title": "Control Statements",
+     "topics": [
+      "Conditional logic using if, elif, else.",
+      "Comparison operators (==, !=, <, >, <=, >=).",
+      "Logical operators (and, or, not).",
+      "Flow control using break, continue.",
+      "Building decision trees for real-world logic handling."
+     ]
+    },
+    {
+     "title": "Functions",
+     "topics": [
+      "Creating reusable logic blocks using def and return.",
+      "Passing parameters using positional and keyword arguments.",
+      "Anonymous function with Lambda"
+     ]
+    },
+    {
+     "title": "Advanced Python",
+     "topics": [
+      "File Handling",
+      "Reading and writing files using open(), read(), write().",
+      "Handling text, CSV, and JSON files for data pipelines.",
+      "Working with file paths using os and pathlib."
+     ]
+    },
+    {
+     "title": "Regex",
+     "topics": [
+      "Pattern matching using re.search(), re.findall(), re.sub().",
+      "Cleaning and extracting text data from logs, emails, and documents.",
+      "Using regex tokens: \\d, \\w, +, *, ^, $, groups."
+     ]
+    },
+    {
+     "title": "Exceptional Handling",
+     "topics": [
+      "Custom exceptions handling using try, except, finally.",
+      "Common exceptions.",
+      "Preventing pipeline failures in production code."
+     ]
+    },
+    {
+     "title": "OOP’s",
+     "topics": [
+      "Creating classes and objects using class and __init__.",
+      "Instance variables vs class variables.",
+      "Methods and object behavior modeling.",
+      "Inheritance and method overriding."
+     ]
+    },
+    {
+     "title": "NumPy",
+     "topics": [
+      "Creating arrays using array, arange, linspace.",
+      "Array operations: indexing, slicing, reshaping.",
+      "Vectorized computations for performance.",
+      "Mathematical functions: mean, sum, std, dot.",
+      "Broadcasting and handling multi-dimensional data."
+     ]
+    },
+    {
+     "title": "Pandas",
+     "topics": [
+      "Working with Series and DataFrame.",
+      "Reading data from CSV, Excel, JSON.",
+      "Data cleaning: missing values, duplicates, type casting.",
+      "Filtering, sorting, and conditional selections.",
+      "Grouping and aggregation using groupby.",
+      "Feature preparation for ML and GenAI pipelines."
+     ]
+    },
+    {
+     "title": "Matplotlib",
+     "topics": [
+      "Creating line, bar, scatter, histogram plots etc.",
+      "Customizing labels, titles, legends, and axes.",
+      "Visualizing trends and distributions in datasets."
+     ]
+    },
+    {
+     "title": "Seaborn",
+     "topics": [
+      "Statistical plots: boxplot, violinplot, countplot.",
+      "Relationship analysis using pairplot and heatmap.",
+      "Visualizing correlations and feature importance.",
+      "Styling plots for reports and dashboards."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t2",
+   "term": "Term 2",
+   "title": "Foundation for GenAI",
+   "duration": "2 Months",
+   "focus": "ML & NLP Foundations",
+   "chapters": [
+    {
+     "title": "ML Fundamentals",
+     "topics": [
+      "Basic of ML",
+      "Supervised vs Unsupervised learning paradigms.",
+      "Features, labels, training, validation, and test sets.",
+      "Bias–variance trade-off and model generalization.",
+      "Overfitting and underfitting with real examples.",
+      "End-to-end ML workflow used in industry projects."
+     ]
+    },
+    {
+     "title": "Regression Analysis",
+     "topics": [
+      "Linear Regression",
+      "Multiple Regression with feature interactions.",
+      "Model evaluation using RMSE, MAE, R² score."
+     ]
+    },
+    {
+     "title": "Classification Analysis",
+     "topics": [
+      "Logistic Regression for binary classification.",
+      "Handling class imbalance using sampling techniques.",
+      "Evaluation metrics: Precision, Recall, F1-Score, ROC-AUC."
+     ]
+    },
+    {
+     "title": "Deep Learning Fundamentals",
+     "topics": [
+      "Perceptron",
+      "Backpropagation and Optimization",
+      "Attention Mechanism"
+     ]
+    },
+    {
+     "title": "NLP Fundamentals",
+     "topics": [
+      "Text Pre-Processing for Gen AI",
+      "Bag-of-Words representation.",
+      "TF-IDF vectorization.",
+      "Word2Vec: CBOW and Skip-Gram.",
+      "Named Entity Recognition (NER)",
+      "Topic Modeling",
+      "Latent Dirichlet Allocation (LDA).",
+      "Latent Semantic Techniques (LSA/LST)."
+     ]
+    },
+    {
+     "title": "Transformer – BERT Model",
+     "topics": [
+      "Transformer architecture: Encoder–Decoder blocks.",
+      "Multi-head self-attention mechanism.",
+      "Positional encoding concepts.",
+      "BERT pre-training objectives: MLM and NSP.",
+      "Use cases of BERT in real NLP systems."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t3",
+   "term": "Term 3",
+   "title": "Generative AI",
+   "duration": "3 Months",
+   "focus": "Generative AI & LLMs",
+   "chapters": [
+    {
+     "title": "Fundamentals of GenAI",
+     "topics": [
+      "Difference Between Predictive AI And Generative AI.",
+      "Generative Modeling Concepts And Probability Distributions.",
+      "Pre-training vs Fine-tuning Paradigms.",
+      "Foundation Models And Their Role In Modern AI Systems."
+     ]
+    },
+    {
+     "title": "Use cases",
+     "topics": [
+      "Text Generation For Chatbots And Assistants.",
+      "Document Summarization And Report Automation.",
+      "Code Generation And Developer Productivity Tools.",
+      "Content Generation For Marketing And Media.",
+      "Knowledge Assistants For Enterprises.",
+      "Search Augmentation And Question Answering Systems."
+     ]
+    },
+    {
+     "title": "Prompt Engineering",
+     "topics": [
+      "Zero-shot, One-shot, And Few-shot Prompting.",
+      "Instruction-based Prompt Design.",
+      "Chain-of-Thought Prompting Techniques.",
+      "Prompt Templates And Reusability.",
+      "Prompt Evaluation And Iterative Optimization."
+     ]
+    },
+    {
+     "title": "LLM",
+     "topics": [
+      "GPT Family (GPT-3.5, GPT-4, GPT-4o).",
+      "LLaMA, Claude and Open-Source LLM Ecosystem.",
+      "Tokenization and Context Windows.",
+      "Inference Parameters: Temperature, Top-p, Max Tokens.",
+      "Hallucination And Limitations Of LLMs.",
+      "Cost And Latency Considerations In Production."
+     ]
+    },
+    {
+     "title": "Hugging Face",
+     "topics": [
+      "Transformers Library For NLP And GenAI",
+      "Pre-trained Models Hub And Model Cards",
+      "Tokenizers And Pipeline APIs",
+      "Fine-tuning Models Using Hugging Face Trainer"
+     ]
+    },
+    {
+     "title": "RAG (Retrieval Augmented Generation)",
+     "topics": [
+      "Vector DB",
+      "Multimodal RAG",
+      "Graph RAG",
+      "RAG Evaluation Metrics"
+     ]
+    },
+    {
+     "title": "Langchain / Llama Index",
+     "topics": [
+      "Prompt Templates And Output Parsers",
+      "Chains And Sequential Workflows",
+      "Agents And Tool Calling",
+      "Integration With Vector Databases And APIs",
+      "Embed and store documents in vector DBs (Pinecone, FAISS,Chroma, etc.)",
+      "Retrieve relevant chunks based on a user query",
+      "Format the retrieved chunks as context for the LLM"
+     ]
+    },
+    {
+     "title": "Fine tuning",
+     "topics": [
+      "Full Fine-Tuning vs Parameter-Efficient Fine-Tuning (PEFT)",
+      "LoRA And QLoRA Techniques",
+      "Instruction Fine-Tuning",
+      "Dataset Preparation And Labeling Remotely",
+      "Overfitting Risks And Mitigation Strategies"
+     ]
+    },
+    {
+     "title": "Fundamental Generative Models: GAN And VAE",
+     "topics": [
+      "Generative Adversarial Networks Architecture",
+      "Variational Autoencoders And Latent Space Learning",
+      "Use Cases In Image And Data Generation"
+     ]
+    },
+    {
+     "title": "Stable Defusion",
+     "topics": [
+      "Diffusion Model Fundamentals",
+      "Text-to-Image Generation Pipelines",
+      "Prompt Control And Image Conditioning",
+      "Fine-Tuning Diffusion Models (DreamBooth, LoRA)"
+     ]
+    },
+    {
+     "title": "Flux Framework",
+     "topics": [
+      "Image And Creative Generation Workflows",
+      "High-quality Diffusion-based Outputs"
+     ]
+    },
+    {
+     "title": "LLMOp’s",
+     "topics": [
+      "Model Versioning And Prompt Version Control",
+      "Monitoring LLM Outputs In Production",
+      "Cost Tracking And Optimization",
+      "Evaluation Pipelines For LLM Applications",
+      "Deployment Strategies For GenAI Systems"
+     ]
+    },
+    {
+     "title": "Azure OpenAI",
+     "topics": [
+      "Azure OpenAI Service Architecture",
+      "Model Deployment And Endpoint Management",
+      "Enterprise Security And Compliance",
+      "Integrating Azure OpenAI With Applications"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t4",
+   "term": "Term 4",
+   "title": "Agentic AI",
+   "duration": "1.5 Months",
+   "focus": "Agentic AI & Autonomous Systems",
+   "chapters": [
+    {
+     "title": "Understanding Agentic AI and Autonomous Agents",
+     "topics": [
+      "Difference Between LLM Applications And Agent-Based Systems",
+      "Autonomous Decision-Making And Goal-Oriented Agents",
+      "Single-Agent vs Multi-Agent Architectures"
+     ]
+    },
+    {
+     "title": "Key components of Agentic AI",
+     "topics": [
+      "Agent Roles, Goals, And Task Decomposition",
+      "Planning, Reasoning, And Execution Loops",
+      "Tool Calling And External System Integration",
+      "Memory Types: Short-Term, Long-Term, And Episodic Memory",
+      "Feedback Loops And Self-Reflection Mechanisms",
+      "Failure Handling And Recovery Strategies"
+     ]
+    },
+    {
+     "title": "AutoGen",
+     "topics": [
+      "Multi-Agent Conversation Design",
+      "Role-Based Agent Collaboration",
+      "Task Delegation And Message Passing",
+      "Use Cases For Autonomous Workflows"
+     ]
+    },
+    {
+     "title": "CrewAI",
+     "topics": [
+      "Team-Based Agent Orchestration",
+      "Role Assignment And Hierarchical Agents",
+      "Workflow Automation Using Crews"
+     ]
+    },
+    {
+     "title": "LangGraph",
+     "topics": [
+      "State-Based Agent Workflows",
+      "Directed Graph Execution For Agents",
+      "Conditional Routing And Branching Logic",
+      "Multi-Step Planning And Execution Graphs",
+      "Error Handling And Retry Mechanisms"
+     ]
+    },
+    {
+     "title": "MCP (Model Context Protocol) / ACP / A2A",
+     "topics": [
+      "Model Context Protocol (MCP) Fundamentals",
+      "Agent Communication Protocol (ACP)",
+      "Agent-to-Agent (A2A) Interaction Patterns",
+      "Context Sharing Across Distributed Agents",
+      "Secure Context Exchange Between Models",
+      "Enterprise Interoperability Standards For Agents"
+     ]
+    },
+    {
+     "title": "No-Code/Low-Code AI Agent Basics",
+     "topics": [
+      "Build AI agents using drag-and-drop workflow builders",
+      "Automate tasks, approvals, and decision flows without coding",
+      "Evaluate feasibility, cost, and business ROI of AI agents",
+      "Work confidently with tech teams to scale AI faster"
+     ]
+    },
+    {
+     "title": "Ethics And Safety In Agentic AI",
+     "topics": [
+      "Autonomous Agent Risk Assessment",
+      "Bias, Hallucination, And Decision Transparency",
+      "Human-in-the-Loop Control Mechanisms",
+      "Compliance And Responsible AI Guidelines",
+      "GuardRail"
+     ]
+    },
+    {
+     "title": "AWS Bedrock",
+     "topics": [
+      "Foundation Models Available In Bedrock",
+      "Building Agents Using Bedrock APIs",
+      "Tool Invocation And Workflow Automation",
+      "Security, IAM, And Enterprise Controls",
+      "Integrating Bedrock With AWS Services"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t5",
+   "term": "Term 5",
+   "title": "Statistics & Foundation of DS",
+   "duration": "1 Months",
+   "focus": "Statistics & Foundation of DS",
+   "chapters": [
+    {
+     "title": "Introduction to Stats & Statistical Thinking",
+     "topics": [
+      "Types of variables: quantitative, and qualitative",
+      "Role of descriptive vs inferential statistics.",
+      "Understanding data distribution and variability",
+      "Probability basics including experiments, outcomes, and events."
+     ]
+    },
+    {
+     "title": "Probability Concepts",
+     "topics": [
+      "Probability distribution function (PDF) and cumulative distribution function (CDF).",
+      "Conditional probability and real-life applications.",
+      "Bayes' Theorem and its use in classification problems.",
+      "Mutually exclusive, joint, dependent, and independent events",
+      "Problem-solving exercises to strengthen probability intuition."
+     ]
+    },
+    {
+     "title": "Population & Sampling Fundamentals",
+     "topics": [
+      "Difference between population and sample in real-world studies.",
+      "Importance of sample size and its effect on confidence.",
+      "Sampling methods: simple random, systematic, cluster, stratified.",
+      "Non-probability sampling: convenience, quota, snowball, judgment ssampling."
+     ]
+    },
+    {
+     "title": "Statistics",
+     "topics": [
+      "Measures of central tendency: mean, median, mode.",
+      "Measures of dispersion: variance, standard deviation, range, IQR.",
+      "Shape analysis: skewness and kurtosis interpretation.",
+      "ANOVA / ANCOVA for comparing model performance.",
+      "Central Limit Theorem and sampling distribution behavior.",
+      "Point estimates vs interval estimates.",
+      "Characteristics of Z-distribution and T-distribution.",
+      "Type I and Type II errors with practical meaning."
+     ]
+    },
+    {
+     "title": "Hypothesis Testing",
+     "topics": [
+      "Formulating null and alternative hypotheses.",
+      "Z-test, t-test, chi-square test basics.",
+      "Using the empirical rule and Z-table.",
+      "Normal and binomial distributions with applications."
+     ]
+    },
+    {
+     "title": "Exploratory Data Analysis (EDA)",
+     "topics": [
+      "Five-point summary: min, Q1, median, Q3, max.",
+      "Box plot construction and interpretation.",
+      "Outliers: causes, impact, and detection.",
+      "Outlier treatment using IQR and Z-score methods"
+     ]
+    },
+    {
+     "title": "Regression Analysis - Supervised Learning",
+     "topics": [
+      "Correlation & regression assumptions",
+      "Linear regression mechanics (cost, optimization, gradient descent)",
+      "Model training workflow (train–test split, prediction)",
+      "Multiple regression & feature interactions",
+      "Residual analysis & diagnostics",
+      "Evaluation, generalization & regularization (RMSE, MAE, R², L1/L2)"
+     ]
+    },
+    {
+     "title": "Classification Analysis - Supervised Learning",
+     "topics": [
+      "Logistic Regression, sigmoid function & MLE",
+      "Linear vs logistic comparison",
+      "Class imbalance handling (sampling techniques)",
+      "Decision Trees & Random Forests",
+      "KNN: distance metrics, K-value selection & curse of dimensionality",
+      "Naive Bayes: assumptions & likelihood",
+      "Evaluation metrics: Precision, Recall, F1, ROC-AUC & cross validation",
+      "Project: Classification problem with real business data."
+     ]
+    },
+    {
+     "title": "Unsupervised Learning Introduction - Clustering",
+     "topics": [
+      "K-means clustering: centroid optimization and within-cluster sum of squares",
+      "Cluster validation: elbow method, silhouette analysis, and optimal selection",
+      "Distance metrics: Euclidean, Manhattan, and domain-specific measures"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t6",
+   "term": "Term 6",
+   "title": "Advanced Data Science",
+   "duration": "3 Months",
+   "focus": "Advanced Data Science",
+   "chapters": [
+    {
+     "title": "Advanced Clustering Techniques",
+     "topics": [
+      "Hierarchical approaches: agglomerative and divisive clustering strategies",
+      "Linkage criteria: single, complete, and average linkage mathematical foundations",
+      "Density-based clustering: DBSCAN algorithm and noise point handling",
+      "Clustering comparison: K-means vs hierarchical vs DBSCAN",
+      "Clustering evaluation: internal and external validation measures"
+     ]
+    },
+    {
+     "title": "Ensemble Learning Techniques (Bagging & Boosting)",
+     "topics": [
+      "Bootstrap aggregation (bagging): concept, implementation",
+      "Variance reduction through sampling diversity",
+      "Random Forest: out-of-bag estimation and feature importance calculation",
+      "Boosting foundations: sequential learning and error correction mechanisms",
+      "AdaBoost, gradient boosting",
+      "Gradient boosting: loss function optimization and residual learning",
+      "Advanced boosting: XGBoost, CatBoost, and LightGBM implementation strategies",
+      "Bagging vs boosting: bias-variance implications"
+     ]
+    },
+    {
+     "title": "Support Vector Machine (SVMs)",
+     "topics": [
+      "Linear SVM: maximum margin principle and support vector identification",
+      "Soft margin formulation: slack variables and regularization parameter tuning",
+      "Kernel methods: polynomial, radial basis function, and kernel trick mathematics",
+      "Multi-class extensions: one-vs-one and one-vs-rest strategies"
+     ]
+    },
+    {
+     "title": "Model Optimization Strategies",
+     "topics": [
+      "Hyperparameter tuning: GridSearchCV, RandomSearchCV, and Bayesian approaches",
+      "K-fold cross-validation for parameter selection: nested validation and unbiased estimation",
+      "Performance curve analysis: learning curves and validation curves",
+      "ROC curve optimization, threshold tuning",
+      "Handling imbalanced datasets: SMOTE, resampling",
+      "Model interpretation: feature importance, partial dependence, and SHAP values"
+     ]
+    },
+    {
+     "title": "Time Series Analysis",
+     "topics": [
+      "Time series components: trend, seasonality, noise",
+      "Stationarity tests: ADF, KPSS",
+      "Autocorrelation & partial ACF plots",
+      "Seasonal decomposition (additive, multiplicative)"
+     ]
+    },
+    {
+     "title": "Classical Forecasting Methods",
+     "topics": [
+      "TMoving averages & exponential smoothing",
+      "ARIMA modeling: identification, estimation, diagnostics",
+      "SARIMA for seasonal data",
+      "Model comparison using AIC/BIC & backtesting"
+     ]
+    },
+    {
+     "title": "Advanced Forecasting",
+     "topics": [
+      "Prophet framework for business series",
+      "Feature-based regression models (lags, rolling stats)",
+      "Tree-based regressors (Random Forest, XGBoost) on time features",
+      "Time series cross-validation & walk-forward validation"
+     ]
+    },
+    {
+     "title": "Text Preprocessing",
+     "topics": [
+      "Tokenization, stopword removal, stemming, and lemmatization.",
+      "Lowercasing, punctuation removal, and text normalization.",
+      "Converting raw text into clean, usable form"
+     ]
+    },
+    {
+     "title": "Word Embeddings",
+     "topics": [
+      "Represent words as dense vectors capturing meaning.",
+      "Word2Vec for context-based learning.",
+      "GloVe for global co-occurrence patterns.",
+      "FastText for handling subword information."
+     ]
+    },
+    {
+     "title": "Transformers & BERT",
+     "topics": [
+      "Attention-based architecture for understanding long text.",
+      "BERT for bidirectional contextual embeddings.",
+      "Fine-tuning BERT for NLP tasks like QA and classification"
+     ]
+    },
+    {
+     "title": "Sequence-to-Sequence Models",
+     "topics": [
+      "Encoder-decoder setup for translating sequences.",
+      "Used in translation, summarization, and dialogue.",
+      "Attention improves sequence alignment."
+     ]
+    },
+    {
+     "title": "Text Classification",
+     "topics": [
+      "Assign labels to text (spam, sentiment, categories).",
+      "Use embeddings + neural networks or transformer models.",
+      "Evaluate using accuracy, precision, recall, F1-score."
+     ]
+    },
+    {
+     "title": "Topic Modeling",
+     "topics": [
+      "Discover hidden topics in text collections.",
+      "LDA and embedding-based topic extraction.",
+      "Group documents by common themes."
+     ]
+    },
+    {
+     "title": "NLP Evaluation Metrics",
+     "topics": [
+      "Accuracy and confusion matrix.",
+      "Precision, Recall, and F1-Score.",
+      "BLEU score for text generation.",
+      "Perplexity for language models."
+     ]
+    },
+    {
+     "title": "Computer Vision",
+     "topics": [
+      "Image Fundamentals",
+      "Image representation using pixels, channels, and encoding.",
+      "Histogram analysis to study brightness and contrast.",
+      "Image transformations: resize, rotate, flip, crop.",
+      "Image filtering: Gaussian, median, bilateral for smoothing and noise removal."
+     ]
+    },
+    {
+     "title": "Convolutional Neural Networks (CNNs)",
+     "topics": [
+      "Convolution operation, padding, and stride basics.",
+      "Pooling layers for reducing spatial size.",
+      "CNN architectures"
+     ]
+    },
+    {
+     "title": "Image Classification",
+     "topics": [
+      "Softmax classifier for predicting class probabilities.",
+      "Transfer learning using pre-trained models.",
+      "Data augmentation to improve generalization."
+     ]
+    },
+    {
+     "title": "Object Detection & Localization",
+     "topics": [
+      "Traditional methods: HOG + SVM.",
+      "Deep learning-based detectors",
+      "R-CNN , Fast R-CNN, Faster R-CNN",
+      "YOLO (v3–v8), SSD, RetinaNet"
+     ]
+    },
+    {
+     "title": "Image Segmentation",
+     "topics": [
+      "Semantic segmentation – classify every pixel.",
+      "FCN – fully convolutional networks.",
+      "U-Net – encoder–decoder for medical images.",
+      "DeepLab – atrous convolutions for better context.",
+      "Instance segmentation – detect + segment each object.",
+      "Mask R-CNN – adds mask prediction to Faster R-CNN."
+     ]
+    },
+    {
+     "title": "Computer Vision with Transformers",
+     "topics": [
+      "Vision Transformers (ViT) – split image into patches, use attention.",
+      "DETR – transformer-based end-to-end object detection.",
+      "Swin Transformer – hierarchical vision transformer."
+     ]
+    },
+    {
+     "title": "RL Fundamentals & Core Method",
+     "topics": [
+      "Agent–environment interaction, rewards, actions, policies.",
+      "Markov Decision Processes (MDP) and Bellman equations essentials.",
+      "Exploration–exploitation strategies (ε-greedy, softmax).",
+      "Monte Carlo, TD Learning, SARSA, Q-Learning basics.",
+      "Policy Gradients and Actor–Critic (REINFORCE, A2C/A3C).",
+      "Classic use cases: game-playing AI and simulation environments."
+     ]
+    },
+    {
+     "title": "Deep RL & Advanced Algorithms",
+     "topics": [
+      "Convolution operation, padding, and stride basics.",
+      "Deep Q-Networks (DQN) with neural networks + experience replay.",
+      "Advanced Actor–Critic methods: PPO, DDPG, TD3, SAC.",
+      "Continuous control with policy gradient deep models.",
+      "Multi-Agent RL: cooperative, competitive, and mixed settings.",
+      "Transfer learning, fine-tuning, and lifelong RL concepts.",
+      "Applications: robotics, autonomous driving, finance, recommendation systems."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t7",
+   "term": "Term 7",
+   "title": "Deployment & MLOps",
+   "duration": "1 Months",
+   "focus": "",
+   "chapters": [
+    {
+     "title": "Model Serving & Packaging",
+     "topics": [
+      "FastAPI / Flask Serving: Build lightweight APIs to expose ML models.",
+      "Model Packaging (BentoML / MLflow Models): Standardize models for easy deployment.",
+      "Dockerization: Wrap the model + API into containers for consistent execution.",
+      "Local Testing: Validate predictions, latency, and real-world behavior before cloud use."
+     ]
+    },
+    {
+     "title": "Cloud Deployment Essentials",
+     "topics": [
+      "AWS & Azure Basics: S3/Blob storage, compute instances, IAM essentials.",
+      "Deployment Platforms: SageMaker / Azure ML for quick hosted endpoints.",
+      "CI/CD for Deployment: Automate build → test → deploy workflows.",
+      "Basic Monitoring: Track API uptime, latency, and failure rates."
+     ]
+    },
+    {
+     "title": "Reproducible ML Workflow",
+     "topics": [
+      "Data & Model Versioning: Manage dataset changes using DVC; track models via MLflow Registry.",
+      "Experiment Tracking: Log metrics, hyperparameters, artifacts using MLflow or Weights & Biases.",
+      "Pipeline Automation: Build training & inference pipelines with Airflow, ZenML, or Kedro."
+     ]
+    },
+    {
+     "title": "Continuous Training, Deployment & Monitoring",
+     "topics": [
+      "CT Pipelines: Auto-trigger re-training when new data arrives or drift is detected.",
+      "Automated Deployment: CI/CD pipelines using GitHub Actions, Jenkins, or GitLab CI.",
+      "Model Monitoring: Detect drift, data issues, and performance degradation (Evidently, WhyLabs).",
+      "Alerts & Rollbacks: Automatically promote or revert model versions using a registry."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t8",
+   "term": "Term 8",
+   "title": "Data Analytics & VisualizationTools",
+   "duration": "1.5 Months",
+   "focus": "Data Analytics & VisualizationTools",
+   "chapters": [
+    {
+     "title": "Analytics Essentials with Excel",
+     "topics": [
+      "Excel Basics & Core Functions: Interface, data types, formulas",
+      "Lookup functions, conditional functions, and text functions.",
+      "Data Preparation & Cleaning: Import/export, missing data handling, validation, formatting",
+      "Power Query for cleaning & automation.",
+      "Statistical & Analytical Techniques: Descriptive statistics, exploratory analysis, filters/sorting, what-if analysis, goal seek.",
+      "Pivot-Based Analysis: PivotTables for summarization, grouping, segmentation, slicers, and data-driven insights."
+     ]
+    },
+    {
+     "title": "Visualization & Advanced Analytics",
+     "topics": [
+      "Charts & Visualization Methods: Bar, line, pie, scatter, combo charts, advanced charting, conditional formatting for insights",
+      "Interactive Dashboards: PivotCharts, KPI visuals, storytelling layouts, mini dashboard creation.",
+      "Data Modeling & Power Tools: Power Pivot, relationships, basic DAX concepts, Excel add-ins for extended analytics.",
+      "Projects & Applications: Business case studies, forecasting,reporting mini-projects, and real-world analytics workflows."
+     ]
+    },
+    {
+     "title": "Power BI Essentials",
+     "topics": [
+      "Data Prep with Power Query: Clean, transform, merge, unpivot, format text/date/number fields.",
+      "Data Modeling: Relationships, granularity, aggregations, timeseries basics, calculated columns.",
+      "Core Visuals & Interactivity: Bar, pie, line, maps, cards, slicers, filters, drill-down, bookmarks.",
+      "Connecting & Working with Data: Load from Excel/SQL, model views, query editor, BI best practices."
+     ]
+    },
+    {
+     "title": "Visuals, Dashboards & DAX Analytics",
+     "topics": [
+      "Advanced Visuals: Funnel, ribbon, waterfall, treemap, gauge, scatter, KPIs & combos.",
+      "DAX for Analytics: Measures, calculations, time-intelligence functions.",
+      "Dashboard Design: Layouts, formatting, interactivity, storytelling, sharing & collaboration.",
+      "Projects: Customer segmentation dashboard, exploratory BI reports, hands-on visual assignments."
+     ]
+    },
+    {
+     "title": "Tableau Essentials & Data Preparation",
+     "topics": [
+      "Connecting & Preparing Data: Data types, joins, blending, pivots, transformations, SQL connections.",
+      "Core Visual Building: Bar, line, pie, scatter, bubble, maps (geo, custom geocoding, polygon, WMS).",
+      "Data Exploration Tools: Filters, groups, sets, parameters, drill-down, marks, dimensions & measures.",
+      "View & Layout Tools: Shelves, cards, sorting, formatting, captions, exporting, metadata management."
+     ]
+    },
+    {
+     "title": "Visual Analytics, Dashboards & Advanced Features",
+     "topics": [
+      "Advanced Visuals: Tree maps, heat maps, bump charts, funnel, waterfall, histogram, bullet & motion charts.",
+      "Calculations & Analytics: Calculated fields, LOD expressions, trends, forecasting, predictive visuals.",
+      "Dashboards & Storytelling: Interactive dashboards, stories, actions, design best practices, publishing & collaboration (Tableau Online).",
+      "Projects & Applications: Build multi-chart dashboards, map-based visuals, predictive model integration."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t9",
+   "term": "Term 9",
+   "title": "DATA BASE MANAGEMENT SYSTEM",
+   "duration": "2 Months",
+   "focus": "DATA BASE MANAGEMENT SYSTEM",
+   "chapters": [
+    {
+     "title": "SQL Fundamentals",
+     "topics": [
+      "Core SQL & RDBMS Basics: Syntax, data types, tables, CRUD operations, querying single tables.",
+      "Filtering & Retrieval: WHERE, ORDER BY, DISTINCT, logical operators, formatting results.",
+      "Joins & Multi-Table Queries: INNER, LEFT, RIGHT, FULL, CROSS joins, UNION, subqueries, nested queries.",
+      "Aggregations & Analytics: GROUP BY, HAVING, summary stats, ranking functions, Top-N analysis."
+     ]
+    },
+    {
+     "title": "Advanced SQL for Analytics",
+     "topics": [
+      "Views & Modifications: INSERT/UPDATE/DELETE, creating views, inline views.",
+      "Optimization: Indexes, execution plans, performance tuning.",
+      "Advanced Database Concepts: Normalization, stored procedures, functions, triggers, user-defined objects.",
+      "SQL in Practice: Integrating SQL with Python, advanced analytical queries for real datasets."
+     ]
+    },
+    {
+     "title": "MongoDB Essentials",
+     "topics": [
+      "MongoDB basics, data structures, and CRUD operations",
+      "Querying data, indexing strategies, and performance tuning",
+      "Schema design, aggregation workflows, and data processing",
+      "NoSQL principles, transactions, replication, and scaling concepts"
+     ]
+    },
+    {
+     "title": "NoSQL with MongoDB",
+     "topics": [
+      "NoSQL basics and data models (key–value, document, columnar, graph)",
+      "MongoDB vs RDBMS and schema flexibility for scalable systems",
+      "Data modeling, consistency ideas (CAP), replication and sharding",
+      "NoSQL applications in analytics, caching, and distributed systems"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t10",
+   "term": "Term 10",
+   "title": "Big Data Analytics",
+   "duration": "1 Months",
+   "focus": "Big Data Analytics",
+   "chapters": [
+    {
+     "title": "Hadoop Fundamentals",
+     "topics": [
+      "Big Data & Distributed Systems: Big Data concepts, distributed architecture, Hadoop master–slave structure.",
+      "HDFS Operations: File storage model, directories, manipulation commands, permissions, quotas.",
+      "MapReduce Framework: Mapper–reducer flow, shuffle/sort, architecture, real-world use cases.",
+      "Core Hadoop Components: YARN resource management, Hadoop ecosystem overview (Hive, Pig, HBase, Sqoop)."
+     ]
+    },
+    {
+     "title": "Hadoop Ecosystem",
+     "topics": [
+      "HDFS basics, architecture, and fault-tolerant storage.",
+      "YARN & MapReduce job execution and resource management.",
+      "Ecosystem integration: Hive, Sqoop, and SQL/NoSQL connectivity.",
+      "Cluster setup, configuration, scaling, and performance tuning."
+     ]
+    },
+    {
+     "title": "Spark Fundamentals",
+     "topics": [
+      "Spark Basics: Core features, architecture, RDDs, DAGs, transformations & actions.",
+      "Spark Environment Setup: SparkSession, standalone mode, YARN/Mesos cluster management.",
+      "RDD & DataFrame Operations: Creation, transformations, actions, interoperability.",
+      "Spark SQL: Structured data processing, SQL queries, DataFrame APIs."
+     ]
+    },
+    {
+     "title": "Spark Ecosystem & Advanced Tools",
+     "topics": [
+      "Spark Streaming: Real-time pipelines, DStreams/Structured Streaming, Kafka integration.",
+      "Spark MLlib: Feature engineering, building & training ML models, model evaluation.",
+      "Performance Optimization: Caching, partitioning, Tungsten & Catalyst optimizer basics.",
+      "PySpark & Integration: Using Spark with Python, connecting Spark with external data sources."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t11",
+   "term": "Term 11",
+   "title": "DSA (Optional)",
+   "duration": "1 Months",
+   "focus": "DSA (Optional)",
+   "chapters": [
+    {
+     "title": "Core Concepts & Essential Data Structures",
+     "topics": [
+      "Time & Space Complexity, Big-O analysis",
+      "Arrays & Strings: Sliding window, prefix/suffix, searching",
+      "Linked Lists: Operations, fast–slow pointers, cycle detection",
+      "Stacks & Queues: Implementations, monotonic stack/queue,deques",
+      "Hashing: Hash maps/sets, frequency tables, efficient lookups"
+     ]
+    },
+    {
+     "title": "Trees, Graphs & Fundamental Algorithms",
+     "topics": [
+      "Trees & BSTs: Traversals, patterns, tree-based problem solving",
+      "Heaps & Priority Queues: Top-K, scheduling, optimization tasks",
+      "Graphs: BFS/DFS, shortest paths (Dijkstra), connectivity, cycle detection",
+      "Advanced Graphs: Topological sort, bipartite checks, MST basics",
+      "Sorting & Searching: Merge sort, quicksort, binary search, searchon-answer"
+     ]
+    },
+    {
+     "title": "Problem-Solving Techniques & Developer Applications",
+     "topics": [
+      "Recursion & Backtracking: Permutations, combinations, constraint solving",
+      "Dynamic Programming: Memoization, tabulation, common DP patterns",
+      "Greedy Algorithms: Interval scheduling, optimal selection strategies",
+      "Real-World Use Cases: Caching logic, rate limiting, pathfinding, optimization",
+      "Coding Interview Skills: Patterns, debugging, performance tuning"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "t12",
+   "term": "Term 12",
+   "title": "Project Management (Skills & Tools)",
+   "duration": "15 Days",
+   "focus": "Project Management (Skills & Tools)",
+   "chapters": [
+    {
+     "title": "Agile Foundations & Practices",
+     "topics": [
+      "Scrum framework: roles, ceremonies & artifacts",
+      "Sprint planning, daily standups, reviews & retrospectives",
+      "Kanban boards, WIP limits & workflow optimization",
+      "User stories, story points, estimation & backlog prioritization",
+      "Agile metrics: velocity, burndown charts, cycle time & throughput",
+      "Managing cross-functional AI/Data Science projects"
+     ]
+    },
+    {
+     "title": "Tools & Practical Project Execution",
+     "topics": [
+      "Jira setup: projects, backlogs, sprints & issue tracking",
+      "Scrum & Kanban boards, dashboards, filters & reports",
+      "Collaboration features: comments, mentions, notifications & permissions",
+      "Jira free-tier limitations & best practices",
+      "Open-source PM tools: OpenProject, Taiga, iceScrum & Redmine",
+      "Communication & team coordination tools (Slack, Teams, Confluence)"
+     ]
+    }
+   ]
+  }
+ ],
+ "faq": [
+  {
+   "section": "Course Related",
+   "q": "What are the prerequisites for the Data Science and AI Master Certification Program?",
+   "a": "There are no specific prerequisites for the Data Science and AI Master Certification program. Experts with no prior coding or programming knowledge can join this course. Just with basic mathematics or statistics knowledge and an interest in learning programming, one can enroll with us."
+  },
+  {
+   "section": "Course Related",
+   "q": "What if I miss a few classes due to an emergency?",
+   "a": "In case you miss a few classes, you will be provided with backup classes in other batches. But if you could not attend more classes, you can opt for batch change and join the next batch."
+  },
+  {
+   "section": "Course Related",
+   "q": "What is a Flexi Subscription in the ⁠Data Science and AI Master Certification Program?",
+   "a": "Those who enroll for Data Science live classroom training are eligible for a Flexi Pass. With this option, we will share access to all the ongoing batch details for a period of 3 years, so that you can attend live sessions from any batch and learn at your own pace. This option is best for people working in shifts or on weekends."
+  },
+  {
+   "section": "Course Related",
+   "q": "What’s the duration of the ⁠Data Science and AI Master Certification Program?",
+   "a": "The duration of this course is about 13-15 months (500 hours) which includes live lectures, hands-on practical training on live projects, and interview preparations. Classes will be conducted on weekdays and weekend batches. Weekday batch – 13 months, Monday to Friday – 2 hours/day, Weekend batch – 15 months, Saturday & Sunday – 3.5 hours/day"
+  },
+  {
+   "section": "Course Related",
+   "q": "What is the mode of training at Learnbay?",
+   "a": "We provide both classroom and online data science training modes. Based on your requirement, you can choose your preferred mode."
+  },
+  {
+   "section": "Course Related",
+   "q": "How can I opt for a Hybrid mode of learning?",
+   "a": "Simply, you can choose an online mode of study for the theoretical classes and classroom mode for all the capstone projects and interview preparation sessions."
+  },
+  {
+   "section": "Domain Electives",
+   "q": "What is domain specialization?",
+   "a": "Domain specialization refers to the practice of gaining specific expertise in a particular field of an industry. It is a metric of career growth where experts gain domain-specific knowledge to face real-world challenges and tackle them effectively."
+  },
+  {
+   "section": "Domain Electives",
+   "q": "What are the available elective domain options?",
+   "a": "Experts from diversified backgrounds can join this to gain domain-specific knowledge. The available domain elective options are –"
+  },
+  {
+   "section": "Domain Electives",
+   "q": "What if I don’t have any prior experience in any domain?",
+   "a": "We offer industry-focused upskilling with the domain electives that are trending at present with alluring career opportunities. In case, you do not hold any prior experience, you can opt for any domain as per your career interests and goals. You can here consider specializations during academics if you wish to craft a successful career in the same."
+  },
+  {
+   "section": "Domain Electives",
+   "q": "Why is domain specialization important?",
+   "a": "After enrolling in the AI and ML with domain specialization course, one must opt for domain electives. It is essential to have business/industry knowledge which is useful in feature engineering and modeling. Prior knowledge of the industry and domain aids in the development of more precise and accurate predictive models based on the dataset’s attributes. Furthermore, the model will be more observable in a real-world situation."
+  },
+  {
+   "section": "Domain Electives",
+   "q": "Can I select multiple domain electives and do I need to pay extra charges?",
+   "a": "You can select up to 4 domain electives based on your interest and career goals. No, you don’t need to pay any extra charges as domain electives and capstone projects are part of our curriculum."
+  },
+  {
+   "section": "Domain Electives",
+   "q": "What if I don’t have any prior experience in any domain?",
+   "a": "If you don’t have any prior work experience, you can opt for any electives to gain domain expertise and work on real-time industrial projects."
+  },
+  {
+   "section": "Domain Electives",
+   "q": "Can I change my domain electives later?",
+   "a": "Yes, you can change your electives or repeat the training anytime but within the course accessibility duration."
+  },
+  {
+   "section": "Payments and Scholarships",
+   "q": "What is the total Fee for the Data Science and AI Master Certification Program?",
+   "a": "The total program fee for the Data Science and AI Master Certification Program with Domain Specialization is INR 1,20,000 + 18% GST."
+  },
+  {
+   "section": "Payments and Scholarships",
+   "q": "Can I pay in installments for the Data Science and AI Master Certification Program?",
+   "a": "Yes, you can pay the installments using a credit card with a no-cost EMI option for INR 8,850/month up to 18 months. You can also choose an interest-free loan by submitting an Aadhar card, Pan Card, and 3-month salary slip."
+  },
+  {
+   "section": "Payments and Scholarships",
+   "q": "Is there any scholarship/discount available for Data Science and AI Master Certification Program? What is Group Discount?",
+   "a": "Learnbay offers a 15 – 20% scholarship for early birds occasionally. Please check our website or contact our sales team to know more about the applicable discounts. Group Discount : Group Discount is applicable only if you’re joining with your friends. 5% extra discount : Group of 2, 8% extra discount : Group of 3, Max 10% discount : Groupe of 4+."
+  },
+  {
+   "section": "Payments and Scholarships",
+   "q": "What is the refund policy for the Data Science and AI Master Certification Program at Learnbay?",
+   "a": "Candidates are advised to read"
+  },
+  {
+   "section": "Capstone and Real-Time Projects",
+   "q": "How many capstone projects will be there?",
+   "a": "In this course, you’ll be required to work on 3 fresh capstone projects. This will help you get exposure to hands-on projects by implementing your theoretical knowledge gained throughout the training."
+  },
+  {
+   "section": "Capstone and Real-Time Projects",
+   "q": "How many real-time projects will be there?",
+   "a": "We have a set of 12 Real-time projects from multiple domains such as Healthcare, Banking, Finance, Insurance, Retail, and others. Based on your interest you can choose your project to work on."
+  },
+  {
+   "section": "Capstone and Real-Time Projects",
+   "q": "How will the project be executed?",
+   "a": "At Learnbay, you will be required to work in a group where your project group will be assigned a specific project mentor with complete assistance and guidance."
+  },
+  {
+   "section": "Certification",
+   "q": "Is there any accredited certification after course completion?",
+   "a": "Yes. Successful completion of the course will attest to a globally accredited certification for your career. Here, you will receive a course completion certificate accredited by IBM that validates your skills to thrive globally. Apart from this, an industry-certified Microsoft certificate justifies our collaboration for successful career transitions."
+  },
+  {
+   "section": "Certification",
+   "q": "What categories of certifications might I expect to receive?",
+   "a": "This course offers you two categories of certifications –"
+  },
+  {
+   "section": "Job Assistance",
+   "q": "What’s the eligibility for a job assistance program at Learnbay?",
+   "a": "You should have completed the course with : A minimum score of 70% in assessments. Should have completed the assignments and case studies. Worked and successfully completed the minimum recommended number of real-time projects."
+  },
+  {
+   "section": "Job Assistance",
+   "q": "How many interview calls will I get at Learnbay?",
+   "a": "This course promises you Job-readiness with interview support (at least 10 calls) with open-end access to the leading employers."
+  },
+  {
+   "section": "Job Assistance",
+   "q": "What is a job-readiness program?",
+   "a": "Job readiness program helps you prepare for interviews which include: Resume preparation sessions, Preparing projects for a strong portfolio, Interview guidance and prep sessions, 1:1 Mock interviews based on targeted companies and roles."
+  },
+  {
+   "section": "Job Assistance",
+   "q": "Will I get job referrals at Learnbay?",
+   "a": "Yes, we offer dedicated placement assistance by referring your profile through our partnered consultancies and companies."
+  },
+  {
+   "section": "Mentorship",
+   "q": "Until when will the Learnbay students get the facility of mentorship?",
+   "a": "Our mentors will provide data science training to the students until the completion of the course depending on the specialization. Post completion, students can reach out to specialized mentors for project and placement purposes."
+  },
+  {
+   "section": "Mentorship",
+   "q": "Can a student choose to study from their desired mentor?",
+   "a": "At Learnbay, every batch has its respective mentor, but if a student is not satisfied with its mentor’s teaching method, they can raise the issue to management and resolve the issues by replacing them with other mentors."
+  },
+  {
+   "section": "Mentorship",
+   "q": "Are there mentors available to help with coursework and projects?",
+   "a": "Working professionals have the scope to learn business analytics online under the direct guidance of industry experts from MNCs. Learners will have dedicated coaching from mentors for coursework, job assistance programs, live projects, and 1:1 doubt clearing. You can get in touch with your mentors to resolve any doubts while working on fresh capstone projects."
+  },
+  {
+   "section": "Mentorship",
+   "q": "How can I connect with a mentor?",
+   "a": "Learners go through business analytics online training guided by industry mentors from MNCs. After enrolling in the course, learners will be assigned a mentor whom they can contact directly during online sessions (chat section) and over the call at any time."
+  },
+  {
+   "section": "Mentorship",
+   "q": "What is the typical response time for mentor support?",
+   "a": "Our mentors are available to support queries of learners at any time (during and after the sessions). So, within 10-15 minutes, learners can get mentor support to resolve queries regarding coursework or projects."
+  },
+  {
+   "section": "Support",
+   "q": "When is the job assistance provided and how long will I get it?",
+   "a": "At Learnbay, placement assistance is provided after the completion of the course. It includes build-up sessions, mock interviews, and referrals from top MNC’s/startups. This assistance is provided unless one gets placed in a company."
+  },
+  {
+   "section": "Support",
+   "q": "How long will I get Job referrals?",
+   "a": "You’ll be provided with job referrals after the completion of the course for a period of 1 year."
+  },
+  {
+   "section": "Support",
+   "q": "How can I reach out for technical support if I encounter any issues with the course platform?",
+   "a": "After enrolling in the course, you are open to use 24x7 learner’s support to resolve any query. You can call the helpline number to reach the desired service providers to help you out of any technical issues with the course platform."
+  },
+  {
+   "section": "Support",
+   "q": "Is there a discussion forum or community for students to interact and seek help?",
+   "a": "There is no discussion forum or community for students to interact and seek help. They can directly reach out to the learner’s support team which is available 24x7 to resolve queries. In case of any doubt related to coursework or projects, learners can schedule a call for 1:1 sessions with their respective mentors."
+  },
+  {
+   "section": "Support",
+   "q": "What is the best way to contact your support team if I have general inquiries?",
+   "a": "Learnbay offers 24x7 learner’s support to help with general inquiries. You can check with our sales team at +91 7795687988 in case you have any questions in your mind. They will reach out to you as soon as possible with the best solutions."
+  }
+ ],
+ "contact": {
+  "phone": "+91 77956 87988",
+  "email": "contacts@learnbay.co",
+  "whatsapp": "https://wa.me/+916366841343",
+  "apply": "https://www.learnbay.co/master-application",
+  "demo": "https://www.learnbay.co/demo"
+ }
+}

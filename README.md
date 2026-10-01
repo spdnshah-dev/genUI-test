@@ -1,4 +1,17 @@
-# Learnbay – Data Science & GenAI Master Certification Program (frontend mirror)
+# Learnbay – Data Science & GenAI Master Certification Program
+
+Two versions of the same page live in this repo:
+
+| Folder | What it is | Run |
+| --- | --- | --- |
+| `genui/` | **Generative UI replica.** No fixed layout: an LLM streams a component plan tailored to what the visitor asks, and the browser materializes it. Free LLM (Pollinations) by default, offline fallback built in. | `cd genui && node server.js` then open http://localhost:3000 |
+| repo root | **Static mirror** of the production page (HTML, CSS, JS, fonts, images). It is the content source for the generator and is served at `/legacy` by the Gen UI server. | `python3 -m http.server 8080` |
+
+See [`genui/README.md`](genui/README.md) for the Generative UI architecture, LLM providers and component catalog.
+
+---
+
+## Static mirror (legacy UI)
 
 Static mirror of the production frontend for
 https://www.learnbay.co/datascience/data-science-and-ai-master-certification-program
